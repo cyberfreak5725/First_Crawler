@@ -1,6 +1,4 @@
-# Project Title
-
-First_Crawler
+# First_Crawler
 
 ### Prerequisites
 
